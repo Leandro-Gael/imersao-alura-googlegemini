@@ -1,4 +1,4 @@
-# Aplicação: Busca de Atletas na imersão Alura junto com google Gemini
+# Aplicação: Busca de Atletas - imersão Alura junto com google Gemini
 
 ## Descrição
 Esta aplicação web permite a busca por atletas em uma base de dados. O usuário digita o nome do atleta desejado e a aplicação retorna os resultados relevantes, exibindo informações como nome, descrição e um link para mais detalhes.
